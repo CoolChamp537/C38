@@ -1,0 +1,7 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 10px solid rgb(0, 26, 255);
+}
